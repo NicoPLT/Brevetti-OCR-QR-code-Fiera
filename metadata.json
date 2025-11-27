@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Brevetti Stendalto CRM",
+  "description": "Scanner OCR per biglietti da visita con reportistica aziendale integrata.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
